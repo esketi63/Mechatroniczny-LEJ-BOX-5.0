@@ -1,3 +1,4 @@
+<img width="1086" height="1448" alt="lej-Box_zjecie" src="https://github.com/user-attachments/assets/02f77d4c-0eb2-406c-8dee-156e2c27576d" />
 # Mechatroniczny-LEJ-BOX-5.0
 Projekt przedstawia system automatycznego nalewania napojów oparty na mikrokontrolerze ESP32. Układ steruje zaworem, mierzy czas przepływu cieczy i zapisuje wyniki zawodników. Komunikuje się z aplikacją internetową poprzez REST API, umożliwiając automatyczne prowadzenie rozgrywek, aktualizację rankingu oraz prezentację wyników w czasie rzeczywistym
 
